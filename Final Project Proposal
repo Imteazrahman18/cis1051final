@@ -1,0 +1,23 @@
+The likely title of my project will be the name GET VACCINATED
+
+So for this project I will be creating a game on python/pycharm which draws inspiration from the classic videogame Space Invaders. The main character/figure will be a vaccine vial along with a syringe which is being "attacked" or invaded by a "opposition" character. 
+
+GET VACCINATED features a main character, which is a vaccine vial along with a syringe, that is being in a sense invaded by other characters. These other charcters will include infected humans/patients, and a germ/bacteria which shoots out from the infected characters.
+If the main character is hit more than three times by the outshoot of germ/bacteria from the infected chacters than the game will come to a conclusion and the player has seceded the round. The game consists of three rounds and each round becomes progressively harder
+The programing will be done on python and features will include for loops, if statements, else and elif statments, along with importing pygame. In addition, it also consists of several files which will be used to depict
+the images of the main character, the opposition characters, and the game environment which includes a background. It will be executed by the program and its several components which will run either on python or pycharm.
+
+I will be completing this project on my own and it will not be in collaboration with any other course or class that I am currently taking.
+
+For this project I will accomplish my goal of creating an interactive game which lets the user enjoy a series of rounds in which the diffculty increases as the user continues to progess through the game
+It will both fun and challenging for the player but also not to diffuclt so they can feel a sense satisfaction/accomplishment at the end of their game.
+
+Before the deadline I am confident in my ability to create the main body of code/programing to insure my game runs smoothly and effectively without any glitches or unexpected errors. 
+
+The best outcome for the project will be to create a game with complete proficiency and have a complete understanding of all the aspects of my project. I want to be able to explain and "teach" anyone on what
+did and used to complete my project. I hope to explain any specific part of the project with great detail and understanding. The main purpose in creating this game, for me, 
+is to bring more awareness to the importance of getting vaccinnated. I want the user to enjoy playing an interactive game while also becoming more aware of the vaccine and why it's crucial to safe health for themselves and their close ones.  
+
+To start of this project I will have to familarize myself with pygames and how it works. I need to take a look at several examples to just get a gist of how the progamming language will work in terms of creating a game with its
+features and components. In addition, I will also need to find proper depictions of the visual properties for my game. I want to create a visually stimulating environment that the user will enjoy while playing. I will need to check back on a weekly basis my lab professor and also Professor Rosen
+if I have any specifict questions or concerns. In terms of new skills, I guess I will come across that as I continue the development of my game, although I believe the skills I learned so far from lab and lecture will be enough to go in the right direction.  
